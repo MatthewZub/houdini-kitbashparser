@@ -3,8 +3,17 @@
 
 Parser works and tested for Houdini 19.0, 18.5. So , it works for both python2 and python3 builds.
 
+#### Suported Renders
+- Mantra (Principled Shader)
+- Mantra ([MRP Principled Shader](https://github.com/MainRoadPost/houdini_configs))
+- Arnold (Standart Surface Shader)
+
+#### Supported Packs
+
+
+
 # Installation
 
 # Attributions
 
-Icon made by Freepik from www.flaticon.com
+- Icon made by Freepik from [flaticon](www.flaticon.com)
