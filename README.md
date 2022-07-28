@@ -91,6 +91,9 @@ Wire output of this node to the input of ```KITBASH MAIN``` node
 
 ```Shader Settings``` - Some of global texture settings
 
+##### fetch_shaders.hda
+This asset is simply declaring materials if they were packed. So you no need to set 'Declare all shaders and materials' in Mantra ROP
+
 # Attributions
 
 - Icon made by Freepik from [flaticon](www.flaticon.com)
