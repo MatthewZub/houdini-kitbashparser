@@ -1,5 +1,5 @@
 # Description
-'Kitbash Parser' is a kit of tools to work with kitbash packs in Houdini.
+'Kitbash Parser' is **opensource** kit of tools to work with kitbash packs in Houdini.
 
 Parser works and tested for Houdini 19.0, 18.5. So , it works for both python2 and python3 builds.
 
@@ -93,6 +93,12 @@ Wire output of this node to the input of ```KITBASH MAIN``` node
 
 ##### fetch_shaders.hda
 This asset is simply declaring materials if they were packed. So you no need to set 'Declare all shaders and materials' in Mantra ROP
+
+# Features
+
+- Custom shading networks
+- Prefering Textures format
+- Parsing textures via their names , without any mtl files
 
 # Attributions
 
