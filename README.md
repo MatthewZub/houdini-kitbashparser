@@ -10,9 +10,12 @@ Parser works and tested for Houdini 19.0, 18.5. So , it works for both python2 a
 - Mantra ([MRP Principled Shader](https://github.com/MainRoadPost/houdini_configs))
 - Arnold (Standart Surface Shader)
 
-#### Supported\Tested Packs
-- Aftermath
-- Anncient Temples 
+<details>
+     <summary>Supported\Tested Packs</summary>
+     <p>
+     
+- [*Aftermath*](https://kitbash3d.com/products/aftermath)
+- [*Anncient Temples*](https://kitbash3d.com/products/ancient-temples)
 - Arch Vogue 
 - City Streets
 - Colonial
@@ -42,6 +45,9 @@ Parser works and tested for Houdini 19.0, 18.5. So , it works for both python2 a
 - Wasteland
 - Wild West
 - ~~Spaceships~~ - **DOES NOT WORK AT ALL**
+
+</p>
+</details>
 
 # Installation
 
