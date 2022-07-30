@@ -55,7 +55,7 @@ Just copy downloaded hda's to ``` <USER>/Documents/<HOUDINI_DIR>/otls/ ``` direc
 
 # Usage
 
-##### KITBASH MAIN
+#### **KITBASH MAIN**
 <img src="https://user-images.githubusercontent.com/97801456/181506255-8f0de960-e06b-41e9-90a8-92ba29ece2cd.png" width="700">
 
 ```Kitbash Folder``` - Select folder with your kitbash packs
@@ -68,7 +68,7 @@ Just copy downloaded hda's to ``` <USER>/Documents/<HOUDINI_DIR>/otls/ ``` direc
 
 ```Fix Rotation``` - Some of obj models are rotated due to different axis. So toggle it when the objects are rotated wrong
 
-##### KITBASH MODEL
+#### **KITBASH MODEL**
 <img src="https://user-images.githubusercontent.com/97801456/181511072-60184702-77c9-4e50-b8d1-aaef0dc6e9a1.png" width="700">
 
 Wire input of this node to the output of ```KITBASH MAIN``` node
@@ -80,7 +80,8 @@ Wire input of this node to the output of ```KITBASH MAIN``` node
 ```Proxy``` - Toggle parm to switch from heavy model to simplify boxes
 
 ```Parsing Method``` - Menu , which appears only when you parsing OBJ file. You can choose method to parse that obj file.
-##### KITBASH SHADING
+
+##### **KITBASH SHADING**
 <img src="https://user-images.githubusercontent.com/97801456/181512046-53b4222a-c8d9-4b8c-a0a5-d8b139ca15e3.png" width="700">
 
 Wire output of this node to the input of ```KITBASH MAIN``` node
@@ -97,7 +98,7 @@ Wire output of this node to the input of ```KITBASH MAIN``` node
 
 ```Shader Settings``` - Some of global texture settings
 
-##### fetch_shaders.hda
+#### fetch_shaders.hda
 This asset is simply declaring materials if they were packed. So you no need to set 'Declare all shaders and materials' in Mantra ROP
 
 # Features
