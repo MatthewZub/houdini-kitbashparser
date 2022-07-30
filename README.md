@@ -62,7 +62,7 @@ Depending on OS and Houdini version you are using, you may find this folder in t
 | OS | Location | 
 | ------ | ------ | 
 | Linux | $HOME/houdini[ver#] |
-| Windows | C:\Users\<USER>\Documents\houdini[ver#] |
+| Windows | C:\Users\\[username]\Documents\houdini[ver#] |
 | MacOSX | /Users/[username]/Library/Preferences/houdini/[ver#] |
 
 # Usage
