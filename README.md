@@ -55,7 +55,15 @@
 
 # Installation
 
-Just copy downloaded hda's to ``` <USER>/Documents/<HOUDINI_DIR>/otls/ ``` directory
+Copy downloaded hda's to your houdini/otl folder
+
+Depending on OS and Houdini version you are using, you may find this folder in the following places:
+
+| OS | Location | 
+| ------ | ------ | 
+| Linux | $HOME/houdini[ver#] |
+| Windows | C:\Users\<USER>\Documents\houdini[ver#] |
+| MacOSX | /Users/[username]/Library/Preferences/houdini/[ver#] |
 
 # Usage
 
